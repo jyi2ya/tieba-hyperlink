@@ -9,3 +9,4 @@
     https://tieba.baidu.com/mo/q/checkurl?url=https%3A%2F%2Fgithub.com
     $
 .
+依赖 Mojolicious，在 debian 下它的包名是 libmojolicious-perl
